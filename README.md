@@ -13,7 +13,7 @@ Es un software que rederitza aquest lloc web en altre sistema operatiu que no si
 
 4. ¿Que es una herramienta ofimática?
 
-Es un eina que servix per processar l'informació introduida de diferent manera com pot ser el excel en celdes.
+Es un eina que serveix per processar l'informació introduida de diferent manera com pot ser el excel en celdes.
 
 5. Herramientas de google
 
