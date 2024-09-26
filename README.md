@@ -9,7 +9,7 @@ El lloc web es on reproduim y veïem l'informació, cóm pot ser imatges i text,
 
 3. ¿Que es una aplicació web?
 
-Es un software que rederitza aquest lloc web en altre sistema operatiu que no sigui el original i també altres dispositius
+Es un software que renderitza aquest lloc web en altre sistema operatiu que no sigui el original i també altres dispositius
 
 4. ¿Que es una herramienta ofimática?
 
