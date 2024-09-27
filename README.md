@@ -27,7 +27,6 @@ Es un eina que serveix per processar l'informació introduida de diferent manera
 |Google meet|...|
 |...|...|
 |...|...|
-|Zebra stripes |...|
 
 6. ¿Que es HTML? 
 
