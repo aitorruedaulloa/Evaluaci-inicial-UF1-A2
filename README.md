@@ -21,9 +21,9 @@ Es un eina que serveix per processar l'informació introduida de diferent manera
 
 |Aplicaciones| Visto|
 |:--------------:|:--------------:|
-|Google docs|...|
-|Google sheets|...|
-|Google calendar|...|
+|Google docs|✔️|
+|Google sheets|✔️|
+|Google calendar|✔️|
 |Google meet|...|
 |...|...|
 |...|...|
