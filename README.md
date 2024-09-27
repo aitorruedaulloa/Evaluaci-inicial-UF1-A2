@@ -3,7 +3,7 @@
 
 es una base de dades on afegim la informació que veirm convenient
 
-2. ¿Que es un sitio web?
+2. ¿Que es un lloc web?
 
 El lloc web es on reproduim y veïem l'informació, cóm pot ser imatges i text, des d'un navegador.
 
@@ -46,6 +46,13 @@ Es una llengua de programació que serveix principalment per editar el format de
 </body>
 </html>
 ```
+
+7. ¿Que es CSS?
+
+Es una llengua de programació per cambiar l'estil de la nostre página web
+
+8. Fluxe de treball (navegador, petició, servei i resposta)
+![Captura](https://github.com/aitorruedaulloa/Evaluaci-inicial-UF1-A2/blob/main/Captura.PNG)
 
 
 
