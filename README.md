@@ -22,10 +22,10 @@ Es un eina que serveix per processar l'informació introduida de diferent manera
 |Aplicaciones| Visto|
 |:--------------:|:--------------:|
 |Google docs|✔️|
+|Google slides|✔️|
 |Google sheets|✔️|
-|Google calendar|✔️|
-|Google meet|...|
-|...|...|
+|Google Calendar|📅|
+|Google Meet|💻|
 |...|...|
 
 6. ¿Que es HTML? 
