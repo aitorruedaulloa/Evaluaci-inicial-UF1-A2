@@ -15,7 +15,7 @@ Es un software que renderitza aquest lloc web en altre sistema operatiu que no s
 
 Es un eina que serveix per processar l'informació introduida de diferent manera com pot ser el excel en celdes.
 
-5. ![Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/)
+5. [Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 
 
