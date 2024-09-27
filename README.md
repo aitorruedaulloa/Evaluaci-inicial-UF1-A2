@@ -33,3 +33,24 @@ Es un eina que serveix per processar l'informació introduida de diferent manera
 
 Es una llengua de programació que serveix principalment per editar el format de la nostre pàgina web.
 
+
+```<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UFT-8">
+    <meta http http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>```
+
+
+
+
+
+
+
+
